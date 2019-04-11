@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Week renders week based on state.weekOfDate 1`] = `
+<styled.div>
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="0"
+    moment={"2019-04-28T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="1"
+    moment={"2019-04-29T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="2"
+    moment={"2019-04-30T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="3"
+    moment={"2019-05-01T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="4"
+    moment={"2019-05-02T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="5"
+    moment={"2019-05-03T07:00:00.000Z"}
+  />
+  <Day
+    arrive="Select date"
+    handleDayClick={[Function]}
+    key="6"
+    moment={"2019-05-04T07:00:00.000Z"}
+  />
+</styled.div>
+`;

@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders month based on state.moment 1`] = `
+<styled.div
+  view="collapsed"
+>
+  <styled.div>
+    <styled.span
+      current={true}
+      onClick={[Function]}
+    >
+       « 
+    </styled.span>
+    <styled.span>
+       
+      April 2019
+       
+    </styled.span>
+    <styled.span
+      onClick={[Function]}
+    >
+       » 
+    </styled.span>
+  </styled.div>
+  <styled.div>
+    <styled.span>
+       S 
+    </styled.span>
+    <styled.span>
+       M 
+    </styled.span>
+    <styled.span>
+       T 
+    </styled.span>
+    <styled.span>
+       W 
+    </styled.span>
+    <styled.span>
+       T 
+    </styled.span>
+    <styled.span>
+       F 
+    </styled.span>
+    <styled.span>
+       S 
+    </styled.span>
+  </styled.div>
+  <styled.div>
+    <Week
+      arrive="Select date"
+      handleDayClick={[Function]}
+      key="2019-03-31T00:00:00-07:00"
+      weekOfDate={"2019-03-31T07:00:00.000Z"}
+    />
+    <Week
+      arrive="Select date"
+      handleDayClick={[Function]}
+      key="2019-04-07T00:00:00-07:00"
+      weekOfDate={"2019-04-07T07:00:00.000Z"}
+    />
+    <Week
+      arrive="Select date"
+      handleDayClick={[Function]}
+      key="2019-04-14T00:00:00-07:00"
+      weekOfDate={"2019-04-14T07:00:00.000Z"}
+    />
+    <Week
+      arrive="Select date"
+      handleDayClick={[Function]}
+      key="2019-04-21T00:00:00-07:00"
+      weekOfDate={"2019-04-21T07:00:00.000Z"}
+    />
+    <Week
+      arrive="Select date"
+      handleDayClick={[Function]}
+      key="2019-04-28T00:00:00-07:00"
+      weekOfDate={"2019-04-28T07:00:00.000Z"}
+    />
+  </styled.div>
+</styled.div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Day renders day based on state.moment 1`] = `
+<styled.div
+  id="2019-05-12T00:00:00-07:00"
+  onClick={[Function]}
+  selected={false}
+>
+  12
+</styled.div>
+`;
