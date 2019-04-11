@@ -1,0 +1,4 @@
+node_modules
+client/dist/bundle.js
+database/info.js
+public/app.js
